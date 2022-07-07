@@ -30,10 +30,12 @@ body {
     margin: 3%;
 
 }
-.amount-tk {
+h4{
     text-decoration: none;
     display:inline;
-    padding: 20px;
+    padding: 10px 20px;
+    background-color: rgba(165, 42, 42, 0.295);
+    border-radius: 10px;
 }
 input {
     padding: 10px 30px ;
